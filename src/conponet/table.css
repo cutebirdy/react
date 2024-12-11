@@ -1,0 +1,16 @@
+.table-container {
+    padding: 0; /* 添加内边距 */
+    width: calc(100% - 200px); /* 设置宽度，减去导航栏的宽度 */
+    float: right; /* 使容器浮动到右侧 */
+    background-color: #fff; /* 背景颜色 */
+    border-radius: 8px; /* 圆角 */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+    margin-left: 200px;
+    box-sizing: border-box;
+    
+  }
+  
+  .button-container {
+    margin-bottom: 10px; /* 按钮和表格之间的间距 */
+  }
+  
